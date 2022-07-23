@@ -1,0 +1,37 @@
+Skip to content
+mrcodein
+/
+rubika
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+rubika/info.txt
+@mrcodein
+mrcodein Update info.txt
+ 1 contributor
+19 lines (13 sloc)  617 Bytes
+salam doostan
+aval az hame chi bayad begam ke library rubika ro ba [ pip install rubika ] nasb konid
+
+se ta method ersal music,file,movie garar gerefte baraton va az file [ methods.txt ] kamel mitonid motaleeash konid
+
+zemnan in bug mahdodiat hajm nadare va ta har hajmj bekhaid up mikone update ham shayad bedim
+
+be zabon sade bekham begam in ravesh har file ro be dah part be hajm raygan dar trafic internet rubika tabdil mikone 
+
+soali dasthid az az rubikaye man beporsid
+@ermia_dev
+
+va afradi ke toye tosee komak kardan
+- Shayan Ghosi
+- Arash Salvand
+- Amir Ershadi
+-PHANTOM XOTIC
+-Ninja Coder
+-DR Coder
